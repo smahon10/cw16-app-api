@@ -1,0 +1,19 @@
+{
+    "posts": [
+      {
+        "id": 1,
+        "content": "Do only what only you can do.",
+        "date": "2024-06-24T12:00:00Z"
+      },
+      {
+        "content": "Here is a post, updated, from Postman!!",
+        "date": "2024-10-10T12:00:00Z",
+        "id": 2
+      },
+      {
+        "id": 3,
+        "content": "The question of whether computers can think is like the question of whether submarines can swim.",
+        "date": "2024-06-26T12:00:00Z"
+      }
+    ]
+}
